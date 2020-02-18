@@ -1,0 +1,15 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "twitter-bot POC",
+  "scripts": {
+    "start": "node index.js",
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Vamsee Jagannath Mangu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "twit": "^2.2.11"
+  }
+}
