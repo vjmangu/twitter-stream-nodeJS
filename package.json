@@ -9,7 +9,7 @@
   "author": "Vamsee Jagannath Mangu",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "twit": "^2.2.11"
   }
 }
